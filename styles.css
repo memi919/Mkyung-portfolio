@@ -12,9 +12,14 @@
   cursor: url('img/mouseH.png')2 2, auto;
 }
 
+html, body {
+    overflow-x: hidden;
+  
+}
+
 body {
   color: white;
-  overflow-x: hidden;
+
 }
 
 a {
